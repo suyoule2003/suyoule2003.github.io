@@ -60,7 +60,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 89f56b60565c3364f523                            #生成的clientID
-  ad803d581b6fc032b732dde7c7e4c933c130fbef    #生成的clientSecret
+  clientSecret: ad803d581b6fc032b732dde7c7e4c933c130fbef    #生成的clientSecret
   repo: suyoule2003.github.io    #仓库名称
   owner: suyoule2003    #github用户名
   admin: suyoule2003
